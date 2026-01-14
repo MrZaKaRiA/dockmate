@@ -9,11 +9,18 @@
   <span><img src="https://img.shields.io/github/license/shubh-io/DockMate" /></span>
   <span><img src="https://img.shields.io/badge/Go-1.24+-00ADD8?logo=go&logoColor=white" /></span>
   <span><img src="https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-blue?style=flat&logo=linux&logoColor=white" /></span>
+  <span>
+    <a href="https://www.xda-developers.com/tried-managing-docker-containers-through-terminal-with-app-love-it/">
+      <img src="https://img.shields.io/badge/Featured%20in-XDA--Developers-blue" />
+    </a>
+  </span>
 </p>
+
 
 > **Note**: Previously named **DockWatch**.
 
 ![DockMate demo gif](assets/demo.gif)
+
 
 ---
 
