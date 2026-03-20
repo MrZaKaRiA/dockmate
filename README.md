@@ -246,6 +246,7 @@ Settings are saved to `~/.config/dockmate/config.yml`. You can manually edit thi
 * [x] Docker Compose management
 * [x] Podman Support
 * [x] Homebrew distribution
+* [ ] Custom Key-Bindings
 * [ ] Container search/filter
 * [ ] Containers Network Management
 * [ ] Resource monitoring alerts
