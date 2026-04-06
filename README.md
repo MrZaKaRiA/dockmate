@@ -266,6 +266,8 @@ Settings are saved to `~/.config/dockmate/config.yml`. You can manually edit thi
 Shubhransh Nath - Creator of Dockmate TUI  
 GitHub: [@shubh-io](https://github.com/shubh-io)
 
+---
+
 ## 🤝 Contributing & License
 
 **License:** MIT. Do whatever you want, just keep the license intact.
