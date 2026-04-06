@@ -261,11 +261,15 @@ Settings are saved to `~/.config/dockmate/config.yml`. You can manually edit thi
 
 ---
 
+## Author
+
+Shubhransh Nath - Creator of Dockmate TUI  
+GitHub: [@shubh-io](https://github.com/shubh-io)
+
 ## 🤝 Contributing & License
 
 **License:** MIT. Do whatever you want, just keep the license intact.
 
-Built by [@shubh-io](https://github.com/shubh-io) while learning Go.
 
 If DockMate saves you keystrokes, consider dropping a ⭐ on the repo!
 
