@@ -1,6 +1,6 @@
 
 <h1 align="center">DockMate 🐳</h1>
-<p align="center"><b>A terminal-based Docker container manager that actually works.</b></p>
+<p align="center"><b>A lightweight Docker & Podman TUI - manage containers and Compose projects from your terminal.</b></p>
 
 <p align="center">
   <span><img src="https://wakatime.com/badge/github/shubh-io/DockMate.svg" /></span>
@@ -142,7 +142,13 @@ This command recursively (`-R`) changes the owner to your current logged-in user
 </details>
 
 
+## After Installation
 
+Once installed, launch Dockmate using:
+
+```bash
+dockmate
+```
 
 
 
@@ -169,7 +175,6 @@ DockMate is the `htop` for Docker-lightweight, keyboard-driven, and zero-config.
 
 ## ⌨️ Controls
 
-Run `dockmate` to start.
 
 ### Navigation & Global
 
@@ -238,6 +243,8 @@ Settings are saved to `~/.config/dockmate/config.yml`. You can manually edit thi
 * Need native **Podman** support.
 * Prefer `htop`-style simplicity over complex dashboards.
 
+#### Alternatives
+##### If DockMate isn't for you, check out lazydocker, dry, or ctop.
 ---
 
 ## 🗺️ Roadmap
